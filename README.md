@@ -1,7 +1,7 @@
 ## SimPy Simulation scripts
 
 ### Ship port simulation
-- Simple SimPy simulation of a ship port with limited resources to unship freight: portSimulation.py
+- Simple SimPy simulation of a ship port with limited resources to unship freight: **portSimulation.py**
 
 Port Situation:
 - 1 tug to bring the ships from the port entry to the dock
